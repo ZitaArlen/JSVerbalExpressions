@@ -115,3 +115,7 @@ Check out these slide decks for handy Github & git tips:
 
 [ben-nadel]:http://www.bennadel.com/
 [extending]:http://www.bennadel.com/blog/2292-Extending-JavaScript-Arrays-While-Keeping-Native-Bracket-Notation-Functionality.htm
+
+For details visit: <A HREF="http://quoteshunter.com/sad-quotes/">http://quoteshunter.com/sad-quotes/</A></P>
+
+
